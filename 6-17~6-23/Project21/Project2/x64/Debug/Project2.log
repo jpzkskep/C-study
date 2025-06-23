@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\leejaebin\Desktop\file\C\Project2\FileName.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\leejaebin\Desktop\file\C\Project2\FileName.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project2.vcxproj -> C:\Users\leejaebin\Desktop\file\C\Project2\x64\Debug\Project2.exe
