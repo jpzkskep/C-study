@@ -50,3 +50,44 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# 📌 Visual Studio-specific files
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+*.ncb
+*.sdf
+*.cachefile
+*.dbmdl
+*.bak
+*.log
+*.tlog
+
+# VS temporary folders
+.vs/
+.vscode/
+ipch/
+*.VC.db
+*.VC.opendb
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Others
+*.code-workspace
+*.tmp
+*.swp
+*.swo
+*.~*
+.DS_Store
+Thumbs.db
+
