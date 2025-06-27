@@ -1,3 +1,0 @@
-﻿  FileName.c
-C:\Users\leejaebin\Desktop\file\C\Project7\FileName.c(6,9): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-  Project7.vcxproj -> C:\Users\leejaebin\Desktop\file\C\Project7\x64\Debug\Project7.exe
