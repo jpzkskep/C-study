@@ -34,7 +34,7 @@ int main() {
     return 0;
 }
 /*
-* p1은 const int를 가르키는 포인터, 
+p1은 const int를 가르키는 포인터, 
 const 가 int 왼쪽에 있으므로 값 변경 불가
 p2은 int를 가르키는 const 포인터, 
 const p2(p2은 주소)이므로 주소 변경 불가
